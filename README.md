@@ -1,1 +1,8 @@
-# ahmed
+Ahmed Sayed AbdelHamid
+1827036
+calculator
+SecondJoglApp
+OurGraphApp
+LineGraphApp
+TrigGraphApp
+FirstCircle
